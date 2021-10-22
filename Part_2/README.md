@@ -15,7 +15,7 @@ The different images, code and the report can be found in this [drive link](http
 
 
 ## LIME
-The code implemented using LIME is called [LIME_atari](https://github.com/ez17847/ce888labs/blob/master/Assignment2/LIME/LIME_atari.ipynb), where the images obtained are shown in [LIME_Images](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/LIME/LIME_Images.docx)
+The code implemented using LIME is called [LIME_atari](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/LIME/LIME_atari.ipynb), where the images obtained are shown in [LIME_Images](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/LIME/LIME_Images.docx)
 
 ## Optical Flow
 The code implemented using optical flow is called [OpticalFlow_atari](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/Optical_Flow/OpticalFlow_atari.py), where the images obtained are shown in this [folder](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/Optical_Flow)
