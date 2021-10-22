@@ -3,7 +3,7 @@
 Enrique Zaragoza Guajardo
 
 
-A continuation of the first [Part](https://github.com/ez17847/ce888labs/tree/master/Assignment1) was done.
+A continuation of the first [Part](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_1) was done.
 
 
 The previous observations can be found in its [drive](https://drive.google.com/drive/folders/1-sTYxPe-EUABS27KFsi9FxKyQvqm75-n?usp=sharing) link.
@@ -15,10 +15,10 @@ The different images, code and the report can be found in this [drive link](http
 
 
 ## LIME
-The code implemented using LIME is called [LIME_atari](https://github.com/ez17847/ce888labs/blob/master/Assignment2/LIME/LIME_atari.ipynb), where the images obtained are shown in [LIME_Images](https://github.com/ez17847/ce888labs/blob/master/Assignment2/LIME/LIME_Images.docx)
+The code implemented using LIME is called [LIME_atari](https://github.com/ez17847/ce888labs/blob/master/Assignment2/LIME/LIME_atari.ipynb), where the images obtained are shown in [LIME_Images](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/LIME/LIME_Images.docx)
 
 ## Optical Flow
-The code implemented using optical flow is called [OpticalFlow_atari](https://github.com/ez17847/ce888labs/blob/master/Assignment2/Optical_Flow/OpticalFlow_atari.py), where the images obtained are shown in this [folder](https://github.com/ez17847/ce888labs/tree/master/Assignment2/Optical_Flow)
+The code implemented using optical flow is called [OpticalFlow_atari](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/Optical_Flow/OpticalFlow_atari.py), where the images obtained are shown in this [folder](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/Optical_Flow)
 
 ![Alien](./OF_Alien179.png?raw=true)
 
@@ -38,7 +38,7 @@ The code implemented using optical flow is called [OpticalFlow_atari](https://gi
 ![Seaquest](./OF_Seaquest215.png?raw=true)
 
 ## Clustering
-The code implemented using scikit-learn algorithms is called [Cluster_atari](https://github.com/ez17847/ce888labs/blob/master/Assignment2/Clusters/Cluster_atari.ipynb), where the images obtained are shown in this [folder](https://github.com/ez17847/ce888labs/tree/master/Assignment2/Clusters)
+The code implemented using scikit-learn algorithms is called [Cluster_atari](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/Clusters/Cluster_atari.ipynb), where the images obtained are shown in this [folder](https://github.com/zage96/reinforcement_learning_agent/tree/main/Part_2/Clusters)
 
 ![Alien2](./Alien_cluster.png?raw=true)
 
